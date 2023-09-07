@@ -1,6 +1,6 @@
 # database
 This is the video database where all the scraped links are stored.
 
-nsfw.txt hold links that were grabbed from nsfw servers
+[nsfw.txt](nsfw.txt) hold links that were grabbed from NSFW servers
 
-although the original database is not named nsfw there still might be some unsafe things there
+Although the [original link list](discord_cdn_links.txt) is not named NSFW, you will still find NSFW content there. Our NSFW list was created after our original list.
